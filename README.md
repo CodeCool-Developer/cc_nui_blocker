@@ -1,6 +1,8 @@
 # NUI DevTools Blocker (FiveM) 
 script ป้องกันไม่ให้ผู้เล่นเปิด nui_devtools หากผู้เล่นเปิด nui_devtools ขึ้นมาระบบจะทำการเตะผู้เล่นออกจากเซิร์ฟเวอร์อัตโนมัติ พร้อมแจ้งข้อความ
 
+### Reference : [github.com/QamarQ/nui_blocker](https://github.com/QamarQ/nui_blocker)
+
 ## ดาวน์โหลด
 ### ใช้ Git
 ```
