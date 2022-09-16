@@ -7,7 +7,7 @@ script ป้องกันไม่ให้ผู้เล่นเปิด 
 ### ใช้ Git
 ```
 cd resources
-git clone https://github.com/pechpijit/cc_nui_blocker.git [local]/[CC]/cc_nui_blocker
+git clone https://github.com/CodeCool-Developer/cc_nui_blocker.git [local]/[CC]/cc_nui_blocker
 ```
 
 ### ด้วยตนเอง
