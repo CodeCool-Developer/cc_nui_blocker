@@ -10,7 +10,7 @@ AddEventHandler(GetCurrentResourceName(), function()
     local xPlayer = ESX.GetPlayerFromId(_source)
     local playerIsOpenNUIDevTools = false
 
-    if string.upper(Config.TypeCheckPermission) == 'STEAM' then
+    if Config.TypeCheckPermission == 1 then
         local identifier = xPlayer.getIdentifier()
         if not ArrayIsInOne(Config.Permissions.AllowSteamIdentifier, identifier) then
             playerIsOpenNUIDevTools = true
